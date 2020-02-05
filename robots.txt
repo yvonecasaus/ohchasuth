@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://engiupeer.codingbobby.xyz/sitemap.xml
